@@ -1,0 +1,89 @@
+html{
+  overflow-x: hidden;
+}
+.hero-sec-bg-img {
+    content: "";
+    z-index: -1;
+   /* opacity: 0.8; */
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.717), rgba(0, 0, 0, .727)),
+    url("assets/PK-en-20250303-TRIFECTA-perspective_a88c1198-1000-42c2-9b40-e68791772052_large.jpg");
+
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+ border-bottom: 1px solid red;
+
+}
+
+.nav{
+    background: transparent;
+    position: absolute;
+}
+.email{
+  border-radius: 4px;
+}
+.heading1{
+  margin-top: 70px;
+}
+.email{
+  border: 1px solid #a6a6a6;
+}
+.img{
+  width: 70%;
+}
+.css{
+  padding-top: 540px;
+
+}
+.display2{
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 1.4em;
+  padding-left: 60px;
+
+}
+.img{
+  border-radius: 5px;
+}
+.for-width{
+
+width: 100%;
+}
+.for-transition{
+  transition: all ease-in 0.2s;
+}
+.tn-imgs{
+  font-size: 70px;
+}
+.display3{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 1.7em;
+  padding-left: 70px;
+  
+
+}
+.card{
+  background-color: #370069;
+}
+.card-img{
+  position: absolute;
+  bottom: 7px;
+  right: 15px;
+}
+.clr{
+  color: #a0a0a2;
+}
+.eng{
+  border-radius: 4px; 
+
+}
+.bg{
+  background-image: linear-gradient(149deg, rgb(25, 34, 71) 0%, rgb(33, 14, 23));;
+}
+.hover{
+  background-color: #2D2D2D;}
+.hover:hover{
+  background-color: #a0a0a2;
+  cursor: pointer;
+}
