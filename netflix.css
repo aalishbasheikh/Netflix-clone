@@ -40,6 +40,13 @@
   background-color: #e50914;
   color: white;
 }
+.btn:hover{
+  background-color: #d45b61; 
+}
+.scale:hover{
+  transform: scale(1.03);
+  cursor: pointer;
+}
 .img{
   width: 70%;
 }
@@ -54,7 +61,7 @@
         left: 4%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -67,7 +74,7 @@
         left: 18%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -80,7 +87,7 @@
         left: 31%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -93,7 +100,7 @@
         left: 44%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -106,7 +113,7 @@
       left: 58%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -119,7 +126,7 @@
         left: 71%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -132,7 +139,7 @@
     left: 84%;
     color: white;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", "Roboto", "Ubuntu";
-    font-size: 85px;
+    font-size: 78px;
     font-weight: 700;
     z-index: 1;
     -webkit-text-fill-color: black;
@@ -156,7 +163,7 @@
 }
 .for-icon::before{
    top: 38%;
-        left: 8%;
+        left: 9%;
         font-size: 60px;
 }
 }
